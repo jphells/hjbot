@@ -11,7 +11,7 @@ const
     CMDLib                    = require('./lib/hjbot/cmdlib'),
     {Logger}                  = require('./lib/hjbot/logger'),
     {RuntimeError, 
-     DisallowedOperation}   = require('./lib/hjbot/exceptions');
+     DisallowedOperation}     = require('./lib/hjbot/exceptions');
 
 
 

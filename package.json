@@ -1,0 +1,22 @@
+{
+  "name": "hjbot",
+  "version": "0.5.0",
+  "description": "hjbot cli app",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jphells",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mocha": "^8.0.3",
+    "@types/sqlite3": "^3.1.6",
+    "discord.js": "^11.5.1",
+    "sqlite3": "^5.0.0",
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "mocha": "^8.1.3"
+  }
+}

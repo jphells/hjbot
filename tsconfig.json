@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outFile": "t.js",
+    "target": "ES2020",
+    "noImplicitAny": true,
+    "noUnusedParameters": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "checkJs": true,
+    "allowJs": true
+  },
+  "include": [
+    "lib/hjbot/**/*.js",
+    "test/*.js",
+    "main.js"
+  ],
+  "exclude": [
+    "node_modules",
+  ],
+  "compileOnSave": true
+}

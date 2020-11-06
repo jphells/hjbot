@@ -1,5 +1,5 @@
 /**
- * hjbot client application, version 1.0.0
+ * hjbot client application.
  * @author jphells
  */
 

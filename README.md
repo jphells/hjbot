@@ -1,4 +1,4 @@
-## hjbot version 1.0.0
+# hjbot
 hjbot is a generic Discord bot implemented on Node.js.
 
 ## USAGE
